@@ -47,3 +47,5 @@ if (isNaN(salary) || isNaN(extras) || isNaN(category)) {
 
 }
 
+
+
